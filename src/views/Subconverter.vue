@@ -296,7 +296,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "http://vv.lytv.cf/sub?" }],
+        backendOptions: [{ value: "http://vv.lytv.cf/sub?","https://vv1.cs99.repl.co/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
