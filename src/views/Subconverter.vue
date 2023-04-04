@@ -297,9 +297,8 @@ export default {
           Surge2: "surge&ver=2",
         },
         backendOptions: [
-          { value: "http://vv.lytv.cf/sub?" },
           { value: "https://vv1.cs99.repl.co/sub?" },
-          { value: "http://vv.lytv.ga/sub?" }
+          { value: "http://测试玩玩.不用选他/sub?" }
           ],
         remoteConfig: [
           {
